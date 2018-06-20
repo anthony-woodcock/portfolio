@@ -34,3 +34,16 @@
     height:600px;
 }
 
+
+/* FOOTER */
+
+footer {
+    background:grey;
+}
+
+/* MISC */
+
+.center {
+    text-align: center;
+}
+
