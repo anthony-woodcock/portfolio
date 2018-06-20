@@ -1,0 +1,36 @@
+/* NAVBAR */
+
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+/* HOME */
+
+#home{
+    background: grey;
+    height:600px;
+}
+
+/* ABOUT */
+
+#about{
+    background: white;
+    height:600px;
+}
+
+/* WORK  */
+
+#work{
+    background: grey;
+    height:600px;
+}
+
+
+/* CONTACT */
+
+#contact{
+    background: white;
+    height:600px;
+}
+
