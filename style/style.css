@@ -10,6 +10,16 @@
 
 h1 {
     padding-bottom: 20px;
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
 }
 
 /* NAVBAR */
@@ -47,6 +57,10 @@ h1 {
     height:600px;
 }
 
+.logos {
+    margin: 10px;
+}
+
 /* WORK  */
 
 #work{
@@ -69,9 +83,5 @@ footer {
     background:grey;
 }
 
-/* MISC */
 
-.center {
-    text-align: center;
-}
 
